@@ -2,4 +2,4 @@
 python:
   - "3.5"
 script:
-  - ./test_run.py
+  - python test_run.py
