@@ -3,4 +3,4 @@ python:
   - "3.5"
 script:
   - echo ls
-  - python test_run.py
+  - python test_rpn.py
